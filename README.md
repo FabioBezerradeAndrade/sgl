@@ -4,4 +4,4 @@
 
 Professor: Waldeck Lindoso
 
-Equipe:  Arleson, Fábio, Marillia
+Equipe:  Arleson Pontes, Darília Oliveira, Fábio Bezerra, Maríllia Nunes.
