@@ -11,8 +11,8 @@ titulo: string
 ----------------
 
 
-alterarLivro
-excluirLivro
+alterarLivro()
+excluirLivro()
 
 ----------------
 ================
@@ -23,8 +23,8 @@ MenuView
 
 ----------------
 
-listarLivros
-procurarLivro
+listarLivros()
+procurarLivro()
 
 ----------------
 
@@ -32,8 +32,8 @@ procurarLivro
 
 LivroController
 ================
-- livro: livro
-- view: MenuView
+- livro: livro()
+- view: MenuView()
 
 adicionarLivro
 alterarLivro
